@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "759052342508",
+    "project_id": "peta-21ad9",
+    "storage_bucket": "peta-21ad9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759052342508:android:3f2a852fdbc768a3d201c9",
+        "android_client_info": {
+          "package_name": "com.example.levonovo.peta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7m092BHHM5ZrcWSqfsLxvBKkZk9hvgBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
